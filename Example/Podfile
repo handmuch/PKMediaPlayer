@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PKMediaPlayer_Tests' do
+  pod 'PKMediaPlayer', :path => '../'
+  
+  
+end
